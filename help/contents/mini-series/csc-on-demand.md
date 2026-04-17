@@ -3,7 +3,7 @@ title: 內容Supply chain價值實現系列
 description: 本系列探討如何從規劃到測量，打造最新的supply chain內容。 會議強調架構、營運模式、執行人員贊助和變更管理的實用方法，以提高效率、擴展內容營運規模，並帶來可衡量的成果。
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
