@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-此工作階段需要很少或沒有預先工作。  您可以選擇觀看[VRA系列](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)的[變更管理策略](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)錄製，支援任何成熟度層級的團隊，並確保每位出席者離開時都有一個直接對應至其AJO使用案例的有形單頁變更計畫。
+此工作階段需要很少或沒有預先工作。  您可以選擇觀看[VRA系列](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)的[變更管理策略](https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)錄製，支援任何成熟度層級的團隊，並確保每位出席者離開時都有一個直接對應至其AJO使用案例的有形單頁變更計畫。
 
 會議重點為：
 

@@ -24,12 +24,12 @@ CARDS  ****
 {cta = Watch}
 
 * ../contents/2026/change-management-deep-dive.md
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
+* https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
 
 -->
 
