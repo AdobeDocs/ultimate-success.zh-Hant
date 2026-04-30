@@ -2,9 +2,9 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+source-git-commit: 7b877d650e5e365f8b8f30ccadb87aec63384cb3
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/change-management-deep-dive.md
 * https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
 * https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
 * https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
@@ -31,148 +32,6 @@ CARDS  ****
 * https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
 
 -->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics and Customer Journey Analytics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="為Analytics和Customer Journey Analytics建立BRD-SDR檔案" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1774568277618" alt="為Analytics和Customer Journey Analytics建立BRD-SDR檔案"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        為Analytics和Customer Journey Analytics建立<a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="為Analytics和Customer Journey Analytics建立BRD-SDR檔案">BRD-SDR檔案</a>
-                    </p>
-                    <p class="is-size-6">瞭解在Adobe Analytics和CJA中建立BRD-SDR檔案、最佳化效能和協助移轉的最佳實務。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Embedded Intelligence Shift">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="內嵌式智慧轉換" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1774568277617" alt="內嵌式智慧轉換"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="內嵌式智慧轉換">內嵌智慧轉換</a>
-                    </p>
-                    <p class="is-size-6">探索Adobe Experience Cloud如何引進輔助智慧，以強化決策並加速insight對動作的週期。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Authoring in Edge Delivery Services">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="在Edge Delivery Services中製作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1774568277612" alt="在Edge Delivery Services中製作"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        在Edge Delivery Services中製作<a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="在Edge Delivery Services中製作"></a>
-                    </p>
-                    <p class="is-size-6">探索Edge Delivery Services中的製作策略，將檔案式製作和通用編輯器與AEM Sites進行比較。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Content Supply Chains">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="最大化內容供應鏈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1774568277619" alt="最大化內容供應鏈"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="最大化內容供應鏈">最大化內容供應鏈</a>
-                    </p>
-                    <p class="is-size-6">瞭解如何使用Adobe解決方案最佳化內容供應鏈，以獲得具影響力的結果。 有效瞭解產業模式並規劃目標。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Modern Delivery Models for AEM Sites">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites的現代化傳遞模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478786/?captions=chi_hant&format=jpeg&nocache=1774568277621" alt="AEM Sites的現代化傳遞模型"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="AEM Sites的現代化傳遞模型">適用於AEM Sites的現代傳遞模型</a>
-                    </p>
-                    <p class="is-size-6">探索AEM Sites的現代化傳送模式，以確保可擴充、敏捷的內容傳送和最佳化的撰寫體驗。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Strategic Benefits of AEM Cloud Service">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Service的戰略優點" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1774568277615" alt="AEM Cloud Service的戰略優點"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="AEM Cloud Service的戰略優點">AEM Cloud Service的戰略優點</a>
-                    </p>
-                    <p class="is-size-6">探索適用於現代數位基礎的Adobe AEM Cloud Service的策略與營運優勢。</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 
 
@@ -194,76 +53,3 @@ CARDS  ****
 * mini-series/csc-on-demand.md
 
 -->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA Value Realization Acceleration Series">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="mini-series/cja-on-demand.md" title="CJA價值實現加速系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1773688699496" alt="CJA價值實現加速系列"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="mini-series/cja-on-demand.md" target="_blank" rel="referrer" title="CJA價值實現加速系列">CJA價值實現加速系列</a>
-                    </p>
-                    <p class="is-size-6">此隨選Customer Journey Analytics系列可協助組織建立價值導向測量策略，將客戶資料轉換為值得信賴的深入分析和可衡量的業務成果。</p>
-                </div>
-                <a href="mini-series/cja-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Value Realization Acceleration Series">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="mini-series/ajo-on-demand.md" title="AJO價值實現加速系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1773688887775" alt="AJO價值實現加速系列"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="mini-series/ajo-on-demand.md" target="_blank" rel="referrer" title="AJO價值實現加速系列">AJO價值實現加速系列</a>
-                    </p>
-                    <p class="is-size-6">Adobe Journey Optimizer價值實現系列透過明確的價值策略，引導團隊啟用即時、個人化的參與度。 這些會議涵蓋使用案例藍圖、架構、作業模型和組織整備，以加快實現價值並最大限度地採用AJO。</p>
-                </div>
-                <a href="mini-series/ajo-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Content Supply Chain Value Realization Series">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="mini-series/csc-on-demand.md" title="內容Supply chain價值實現系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="mini-series/csc-on-demand.md" target="_blank" rel="referrer" title="內容Supply chain價值實現系列">內容Supply chain價值實現系列</a>
-                    </p>
-                    <p class="is-size-6">本系列探討如何從規劃到測量，打造最新的supply chain內容。 會議強調架構、營運模式、執行人員贊助和變更管理的實用方法，以提高效率、擴展內容營運規模，並帶來可衡量的成果。</p>
-                </div>
-                <a href="mini-series/csc-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
