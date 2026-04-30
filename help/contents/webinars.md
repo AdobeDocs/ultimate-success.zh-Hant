@@ -138,7 +138,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" title="建立高階主管贊助以支援Adobe Customer Journey Analytics成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1777587800709" alt="建立高階主管贊助以支援Adobe Customer Journey Analytics成功"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470865/?captions=chi_hant&format=jpeg&nocache=1777587800709" alt="建立高階主管贊助以支援Adobe Customer Journey Analytics成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,7 +207,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-shared-audiences" title="使用CJA在30分鐘內建立優惠方案" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1777587800773" alt="使用CJA在30分鐘內建立優惠方案"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477472/?captions=chi_hant&format=jpeg&nocache=1777587800773" alt="使用CJA在30分鐘內建立優惠方案"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +340,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/lean-teams-cja" title="發揮最大效率 — 精益團隊和Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1777587802289" alt="發揮最大效率 — 精益團隊和Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457019/?captions=chi_hant&format=jpeg&nocache=1777587802289" alt="發揮最大效率 — 精益團隊和Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -475,7 +475,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="最大化內容供應鏈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1777587803184" alt="最大化內容供應鏈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1777587803184" alt="最大化內容供應鏈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -498,7 +498,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites的現代化傳遞模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1777587803204" alt="AEM Sites的現代化傳遞模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478786/?captions=chi_hant&format=jpeg&nocache=1777587803204" alt="AEM Sites的現代化傳遞模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -707,7 +707,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-aem-sites" title="精通AEM Sites — 範本、導覽和SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1777587804307" alt="精通AEM Sites — 範本、導覽和SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464326/?captions=chi_hant&format=jpeg&nocache=1777587804307" alt="精通AEM Sites — 範本、導覽和SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1013,7 +1013,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-beyond-basics" title="AI助理 — 超越基本知識" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1777587807812" alt="AI助理 — 超越基本知識"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463369/?captions=chi_hant&format=jpeg&nocache=1777587807812" alt="AI助理 — 超越基本知識"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1193,7 +1193,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/aep-marketo-integration" title="Real-Time Customer Data Platform與Marketo整合的基礎知識" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1777587809220" alt="Real-Time Customer Data Platform與Marketo整合的基礎知識"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433679/?captions=chi_hant&format=jpeg&nocache=1777587809220" alt="Real-Time Customer Data Platform與Marketo整合的基礎知識"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1216,7 +1216,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/data-stream-prioritization" title="資料流優先順序" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1777587809165" alt="資料流優先順序"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456816/?captions=chi_hant&format=jpeg&nocache=1777587809165" alt="資料流優先順序"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1259,7 +1259,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1777587811524" alt="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479828/?captions=chi_hant&format=jpeg&nocache=1777587811524" alt="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1551,7 +1551,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/hyperpersonalization" title="Personalization成熟度 — 實現超個人化的途徑" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1777587814181" alt="Personalization成熟度 — 實現超個人化的途徑"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457356/?captions=chi_hant&format=jpeg&nocache=1777587814181" alt="Personalization成熟度 — 實現超個人化的途徑"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1620,7 +1620,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/strategic-leadership" title="策略領導力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1777587814351" alt="策略領導力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456794/?captions=chi_hant&format=jpeg&nocache=1777587814351" alt="策略領導力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1704,7 +1704,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/csc-gen-studio" title="揭開內容Supply chain和Adobe GenStudio作為產品套裝的神秘面紗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1777587815536" alt="揭開內容Supply chain和Adobe GenStudio作為產品套裝的神秘面紗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472990/?captions=chi_hant&format=jpeg&nocache=1777587815536" alt="揭開內容Supply chain和Adobe GenStudio作為產品套裝的神秘面紗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1924,7 +1924,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-adobe-campaign" title="使用Adobe Journey Optimizer和Adobe Campaign匯入最新的行銷活動" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477880/?format=jpeg&nocache=1777587816802" alt="使用Adobe Journey Optimizer和Adobe Campaign匯入最新的行銷活動"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477904/?captions=chi_hant&format=jpeg&nocache=1777587816802" alt="使用Adobe Journey Optimizer和Adobe Campaign匯入最新的行銷活動"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2281,7 +2281,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/gen-ai-experimentation" title="AJO中的GenAI實驗及其與Adobe Target的關係" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1777587821651" alt="AJO中的GenAI實驗及其與Adobe Target的關係"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444470/?captions=chi_hant&format=jpeg&nocache=1777587821651" alt="AJO中的GenAI實驗及其與Adobe Target的關係"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2677,7 +2677,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-lean-teams" title="使用Adobe Workfront實現效率最大化 — 精益團隊網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1777587828437" alt="使用Adobe Workfront實現效率最大化 — 精益團隊網路研討會"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456721/?captions=chi_hant&format=jpeg&nocache=1777587828437" alt="使用Adobe Workfront實現效率最大化 — 精益團隊網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
