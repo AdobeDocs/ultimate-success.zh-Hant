@@ -2,7 +2,7 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ ht-degree: 0%
 
 探索我們的隨選網路研討會系列，這些研討會旨在協助您充分發揮Adobe Experience Platform (AEP)解決方案的價值。 每個會議專為Ultimate客戶量身打造，提供可操作的指引、經過驗證的策略以及真實世界的範例，協助您根據排程推動更聰明的決策和更強大的成果。
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ ht-degree: 0%
 
 每個重點會議都會強調價值實現框架的核心支柱，提供實用的指引和經過實證的成品，以支援策略規劃、加快實現價值的時間並推動有意義的結果。 瀏覽產品和產業特定系列，瞭解團隊如何啟用策略、協調利害關係人，以及從採用到影響。
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   

@@ -2,7 +2,7 @@
 title: Ultimate Success網路研討會
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: b91e9cffd863b0a5de8aa219e87cc6d6680cbc24
 workflow-type: tm+mt
 source-wordcount: '10274'
 ht-degree: 1%
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 ## Commerce
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -79,7 +80,8 @@ ht-degree: 1%
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -116,7 +118,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -323,7 +326,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -435,7 +439,8 @@ ht-degree: 1%
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -544,7 +549,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -845,7 +851,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -932,7 +939,8 @@ ht-degree: 1%
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -970,7 +978,8 @@ ht-degree: 1%
 **2025**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1129,7 +1138,8 @@ ht-degree: 1%
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1241,7 +1251,8 @@ ht-degree: 1%
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1351,7 +1362,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1484,7 +1496,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1689,7 +1702,8 @@ ht-degree: 1%
 
 ## GenStudio for Performance Marketing
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1752,7 +1766,8 @@ ht-degree: 1%
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 * ../contents/2026/change-management-deep-dive.md
@@ -1788,7 +1803,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1971,7 +1987,8 @@ ht-degree: 1%
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2130,7 +2147,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2169,7 +2187,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2350,7 +2369,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2389,7 +2409,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2500,7 +2521,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2537,7 +2559,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2576,7 +2599,8 @@ ht-degree: 1%
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2661,7 +2685,8 @@ ht-degree: 1%
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
