@@ -2,9 +2,9 @@
 user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
-source-git-commit: 7b877d650e5e365f8b8f30ccadb87aec63384cb3
+source-git-commit: b18eab7d8dc9371a25127b6398b80142cc7cc748
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 3%
 
 ---
@@ -18,5 +18,7 @@ ht-degree: 3%
    + [CJA價值實現加速系列](mini-series/cja-on-demand.md)
    + [AJO價值實現加速系列](mini-series/ajo-on-demand.md)
    + [CSC價值實現系列](mini-series/csc-on-demand.md)
-+ 隱藏 {#hidden}
-   + [變更管理深入探討](../contents/2026/change-management-deep-dive.md)
++ {hide-from-toc}已隱藏 {#hidden}
+   + {hide-from-toc}[變更管理深入探討](../contents/2026/change-management-deep-dive.md)
+   + {hide-from-toc}[智慧型決策](../contents/2026/intelligent-decsioning.md)
+   + {hide-from-toc}[解除鎖定同盟對象構成](../contents/2026/unified-audiences.md)
