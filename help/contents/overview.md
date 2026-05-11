@@ -2,9 +2,9 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: 7441663a714b7e3333bc60d3d79ed7081ee68510
+source-git-commit: 773fa770ff0d64a6322de776a95868402c324e20
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1135'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/ai-visibility.md
 * ../contents/2026/unified-audiences.md
 * ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
@@ -36,12 +37,35 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Win Visibility in the AI Era with Adobe LLM Optimizer & Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/ai-visibility.md" title="使用Adobe LLM Optimizer和Sites Optimizer贏得AI時代的能見度" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1778531011360" alt="使用Adobe LLM Optimizer和Sites Optimizer贏得AI時代的能見度"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        使用Adobe LLM Optimizer和Sites Optimizer <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" title="使用Adobe LLM Optimizer和Sites Optimizer贏得AI時代的能見度">在AI時代贏得可見度</a>
+                    </p>
+                    <p class="is-size-6">瞭解Adobe LLM Optimizer和Sites Optimizer如何改善AI可見度、網站效能並提供高影響力的數位體驗。</p>
+                </div>
+                <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Federated Audience Composition (FAC) in AEP - From Data Silos to Unified Audiences">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-audiences.md" title="解鎖AEP中的同盟對象構成(FAC) — 從資料獨立單位到統一對象" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778512233005" alt="解鎖AEP中的同盟對象構成(FAC) — 從資料獨立單位到統一對象"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778531011369" alt="解鎖AEP中的同盟對象構成(FAC) — 從資料獨立單位到統一對象"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,7 +88,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/intelligent-decsioning.md" title="透過智慧型決策提供即時客戶體驗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486516/?captions=chi_hant&format=jpeg&nocache=1778512232986" alt="透過智慧型決策提供即時客戶體驗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486516/?captions=chi_hant&format=jpeg&nocache=1778531011366" alt="透過智慧型決策提供即時客戶體驗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +111,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/change-management-deep-dive.md" title="變更管理深入探討Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778512232991" alt="變更管理深入探討Adobe Journey Optimizer (AJO)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778531011373" alt="變更管理深入探討Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +134,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="為Analytics和Customer Journey Analytics建立BRD-SDR檔案" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778512233632" alt="為Analytics和Customer Journey Analytics建立BRD-SDR檔案"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778531012539" alt="為Analytics和Customer Journey Analytics建立BRD-SDR檔案"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +157,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="內嵌式智慧轉換" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778512236673" alt="內嵌式智慧轉換"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778531012431" alt="內嵌式智慧轉換"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +180,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="在Edge Delivery Services中製作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778512237671" alt="在Edge Delivery Services中製作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778531012496" alt="在Edge Delivery Services中製作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +203,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="最大化內容供應鏈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1778512233634" alt="最大化內容供應鏈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1778531012430" alt="最大化內容供應鏈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +226,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites的現代化傳遞模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478786/?captions=chi_hant&format=jpeg&nocache=1778512233655" alt="AEM Sites的現代化傳遞模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478786/?captions=chi_hant&format=jpeg&nocache=1778531012485" alt="AEM Sites的現代化傳遞模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -225,7 +249,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Service的戰略優點" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778512233716" alt="AEM Cloud Service的戰略優點"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778531012531" alt="AEM Cloud Service的戰略優點"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
