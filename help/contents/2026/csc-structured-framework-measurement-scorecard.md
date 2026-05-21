@@ -19,4 +19,4 @@ ht-degree: 0%
 
 隨著內容複雜度增加，許多組織都難以清楚展示其內容營運的業務價值。 此網路研討會會介紹結構化、以結果為根據的方式，來測量整個內容Supply chain的價值，協助您定義有意義的KPI、將內容投資連結至業務影響，並建立可供主管使用的測量計分卡，以持續實現價值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491256/?captions=chi_hant&learn=on&enablevpops)

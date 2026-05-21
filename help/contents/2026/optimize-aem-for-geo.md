@@ -19,7 +19,7 @@ ht-degree: 0%
 
 探索人工智慧如何重塑搜尋並影響數位策略。 本會議探討如何最佳化Adobe Experience Manager (AEM) Sites，以提升AI支援探索中不斷演變格局的可見度、效能和轉換率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491259/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491284/?captions=chi_hant&learn=on&enablevpops)
 
 ## 重要主題
 
