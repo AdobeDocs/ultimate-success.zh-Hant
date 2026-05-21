@@ -1,20 +1,20 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.zh-Hant
+git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
 hide: true
 debug: yes
 author: various
-source-git-commit: b419da8dc57676fdd7f8b6a01d4a6cea7b8e81b2
+source-git-commit: bf8d77232d834eba37c3a28ee332f5976fc96009
 workflow-type: tm+mt
 source-wordcount: 68
-ht-degree: 76%
+ht-degree: 94%
 
 ---
 
