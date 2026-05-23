@@ -21,7 +21,7 @@ ht-degree: 0%
 
 即時提供個人化客戶體驗不只需要客戶資料。 它仰賴智慧決策，評估多個選項並在適當時機提供最相關的選項。 使用Adobe Journey Optimizer，品牌可以建構體驗、套用決定邏輯，以及在客戶歷程中擴展個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486516/?captions=chi_hant&learn=on&enablevpops)
 
 本課程說明智慧型決策的重要性、運作方式，以及相關的業務優點。 瞭解目錄結構描述和選件等基本結構如何簡化縮放，而決策規則和AI模型等工具如何最佳化個人化傳遞。 探索以動態方式排名優惠的方法，包括使用AI驅動的模型來進行個人化最佳化。
 
