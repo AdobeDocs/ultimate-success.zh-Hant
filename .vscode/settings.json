@@ -1,0 +1,10 @@
+{
+  "editor.wordWrap": "on",
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "markdown.suggest.paths.enabled": true
+}
