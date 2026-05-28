@@ -19,7 +19,7 @@ ht-degree: 0%
 
 此網路研討會探討Adobe GenStudio for Performance Marketing如何與Marketo Engage整合，以簡化電子郵件行銷活動。 它示範了設定需求，包括共用的IMS組織存取和新的電子郵件設計工具，並有一個即時示範，展示GenStudio建立的電子郵件體驗如何匯入Marketo。 此網路研討會也涵蓋在Marketo中建立與GenStudio相容的電子郵件範本，並強調整合的好處。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491524/?captions=chi_hant&learn=on&enablevpops)
 
 新的電子郵件設計工具提供效率和模組化功能，支援拖放模組，並與Adobe的生態系統一致，這是其中的一項重要優勢。 此整合可協助行銷人員節省時間、改善共同作業，並有效提供目標明確的電子郵件行銷活動。
 
