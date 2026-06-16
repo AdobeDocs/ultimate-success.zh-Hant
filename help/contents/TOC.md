@@ -2,7 +2,8 @@
 user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
-source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
+nudge: true
+source-git-commit: b451f5edcc76c97b6b8c27bde91129a06840c8b5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
