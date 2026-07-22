@@ -7,7 +7,7 @@ usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/ultimate-success.en
+git-repo: https://github.com/AdobeDocs/ultimate-success.zh-Hant
 auto-video-transcripts: true
 hide: true
 debug: yes
