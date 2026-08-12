@@ -2,8 +2,13 @@
 title: 為何需要Workfront中的統一檢閱與核准
 description: 瞭解Adobe Workfront整合式檢閱和核准如何簡化內容檢閱流程、增強共同作業並提升效率。
 product: Workfront
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

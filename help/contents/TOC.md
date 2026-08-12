@@ -44,5 +44,5 @@ ht-degree: 1%
   + {hide-from-toc}[縮放Adobe代理程式 — Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[資料彙集疑難排解](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics移轉至Customer Journey Analytics藍圖](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + 適用於行動應用程式Personalization的{hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + {hide-from-toc}[適用於行動應用程式Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI與代理程式架構](../contents/2026/understand-adobe-ai-agentic-architecture.md)

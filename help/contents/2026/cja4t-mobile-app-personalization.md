@@ -3,7 +3,9 @@ title: 從實驗到Insight — 適用於行動應用程式Personalization的CJA4
 description: 探索CJA4T如何將Adobe Target行動應用程式體驗連結至跨管道深入分析，實現更佳的個人化和最佳化。
 product: Customer Journey Analytics
 role: User
-level: BeginnerIntermediate
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

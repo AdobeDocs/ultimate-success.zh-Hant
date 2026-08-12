@@ -2,8 +2,15 @@
 title: 瞭解Adobe的AI和代理式架構以滿足業務需求
 description: 瞭解Adobe的AI和代理程式架構如何與業務成果保持一致、讓Adobe投資發揮最大效益，並透過強大的控管實現可擴充的採用。
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

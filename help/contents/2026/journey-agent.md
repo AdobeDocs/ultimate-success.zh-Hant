@@ -2,8 +2,14 @@
 title: 縮放Adobe代理程式 — Journey Agent
 description: 瞭解Adobe的Journey Agent如何結合AI工作流程與人類監督，以最佳化歷程建立和治理。
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
