@@ -28,7 +28,7 @@ ht-degree: 2%
 
 瞭解Brand Experience Agent如何加速內容製作、網站現代化和開發，同時保留人力審查和管理。 瞭解為何標準化高價值、重複的工作流程對於提供可擴充的業務價值至關重要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496976/?captions=chi_hant&learn=on&enablevpops)
 
 ## 學習目標
 

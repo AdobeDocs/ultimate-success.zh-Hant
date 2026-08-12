@@ -25,7 +25,7 @@ ht-degree: 2%
 
 瞭解如何使用CJA4T將Adobe Target行動應用程式體驗連結至跨管道的下游動作。 此課程提供有關身分拼接、資料架構、報告設定和避免常見設定陷阱的指引。 更全面瞭解個人化影響，並做出更佳的最佳化決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496987/?captions=chi_hant&learn=on&enablevpops)
 
 ## 學習目標
 
