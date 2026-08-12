@@ -2,12 +2,8 @@
 title: 資料收集疑難排解 — 秘訣、技巧和治理最佳實務
 description: 瞭解利用控管導向的技術來疑難排解Adobe Analytics和Web SDK的有效方式，以便更快驗證資料並解決問題。
 product: Customer Journey Analytics
-role:
-  - Admin
-  - Developer
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -15,7 +11,7 @@ jira: KT-22284
 duration: 3401
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 2%

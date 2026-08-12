@@ -2,12 +2,8 @@
 title: 縮放Adobe AI代理程式 — Audience Agent和Data Insights Agent
 description: 瞭解Audience Agent和Data Insights Agent如何將Ad Hoc AI使用轉換為可重複的工作流程，用於細分、受眾管理和行銷活動分析。
 product: Customer Journey Analytics
-role:
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -15,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
