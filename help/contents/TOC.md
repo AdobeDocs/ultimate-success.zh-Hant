@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 1ae82130a91f1565b836c157e2d8e66a7bbb66b9
+source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -36,6 +36,13 @@ ht-degree: 1%
   + {hide-from-toc}[有效的使用案例陳述式](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[上線後持續採用](../contents/2026/operational-drift.md)
   + {hide-from-toc}[管理多區域團隊](../contents/2026/multi-region-teams.md)
-  + {hide-from-toc}[客戶體驗中的個人化功能](../contents/2026/personalisation-capabilities.md)
   + {hide-from-toc}[Adobe Experience Manager的GenAI代理程式](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[產生並排定AJO使用案例的優先順序](../contents/2026/ajo-use-cases.md)
+  + {hide-from-toc}[為什麼您想要在Workfront中統一檢閱與核准](../contents/2026/unified-review-approvals-workfront.md)
+  + {hide-from-toc}[Audience Agent與Data Insights Agent](../contents/2026/scaling-ai-agents.md)
+  + {hide-from-toc}[縮放Adobe代理程式 — Journey Agent](../contents/2026/journey-agent.md)
+  + {hide-from-toc}[縮放Adobe代理程式 — Brand Experience Agent](../contents/2026/brand-experience-agent.md)
+  + {hide-from-toc}[資料彙集疑難排解](../contents/2026/data-collection-troubleshooting.md)
+  + {hide-from-toc}[Adobe Analytics移轉至Customer Journey Analytics藍圖](../contents/2026/aa-to-cja-migration-roadmap.md)
+  + {hide-from-toc}[適用於行動應用程式Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + {hide-from-toc}[Adobe的AI與代理程式架構](../contents/2026/understand-adobe-ai-agentic-architecture.md)
