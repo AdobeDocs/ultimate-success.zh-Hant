@@ -1,7 +1,7 @@
 ---
 title: 從Adobe Analytics移轉至Customer Journey Analytics — 您的移轉藍圖
 description: 瞭解從Adobe Analytics移轉至Customer Journey Analytics的步驟。 深入瞭解身分策略、資料驗證等。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22283
 duration: 3110
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 1%

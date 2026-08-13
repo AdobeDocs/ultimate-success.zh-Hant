@@ -1,7 +1,7 @@
 ---
 title: Adobe代理程式規模調整 — Brand Experience Agent
 description: 瞭解Adobe的Brand Experience Agent如何簡化工作流程、加速內容製作並確保控管以實現可擴充的業務價值。
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
