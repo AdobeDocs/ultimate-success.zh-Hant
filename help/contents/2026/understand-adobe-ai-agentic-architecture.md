@@ -23,7 +23,7 @@ ht-degree: 4%
 
 此會議提供將Adobe的AI功能與您的業務目標相一致的詳細架構。 其重點在於最大化您的Adobe投資，並採用具備增強資料整備和治理的可擴充解決方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496967/?captions=chi_hant&learn=on&enablevpops)
 
 ## 學習目標
 
