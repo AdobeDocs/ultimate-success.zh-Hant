@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -46,3 +46,4 @@ ht-degree: 1%
   + {hide-from-toc}[Adobe Analytics移轉至Customer Journey Analytics藍圖](../contents/2026/aa-to-cja-migration-roadmap.md)
   + {hide-from-toc}[適用於行動應用程式Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI與代理程式架構](../contents/2026/understand-adobe-ai-agentic-architecture.md)
+  + {hide-from-toc}[適用於Adobe Workfront的可擴充的作業模式](../contents/2026/scalable-operating-model.md)
