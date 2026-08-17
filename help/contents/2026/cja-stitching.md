@@ -2,8 +2,13 @@
 title: 透過Adobe Customer Journey Analytics拼接提升跨管道深入分析
 description: 瞭解Adobe CJA如何拼接開啟個人層級、跨頻道分析、改善報告、歸因和受眾建立的能力。
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
