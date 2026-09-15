@@ -23,7 +23,7 @@ ht-degree: 4%
 
 瞭解Workfront Planning如何解決行銷規劃中的分散可見性、中斷連線的策略和執行以及手動報告經常性費用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502979/?captions=chi_hant&learn=on&enablevpops)
 
 ## 重點提要
 

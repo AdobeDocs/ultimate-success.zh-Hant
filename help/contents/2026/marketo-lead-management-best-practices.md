@@ -23,7 +23,7 @@ ht-degree: 2%
 
 探索Adobe對於銷售機會管理的建議方法，並瞭解行銷和銷售如何從共用架構進行資格評定、後續追蹤和測量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503000/?captions=chi_hant&learn=on&enablevpops)
 
 ## 概觀
 
