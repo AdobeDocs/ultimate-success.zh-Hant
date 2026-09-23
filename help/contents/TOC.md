@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
+source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 
@@ -55,3 +55,4 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe Commerce可觀察性和監視最佳實務](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[CXO成功的策略規劃](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[AEM代理程式技能](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc}[已標籤、受管理、已啟用](../contents/2026/metadata-backbone-content-at-scale.md)
