@@ -5,15 +5,25 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3143
-last-substantial-update: 2026-07-29T00:00:00Z
+last-substantial-update: 2026-07-29T00:00:00.000Z
 jira: KT-22161
-source-git-commit: 1ae82130a91f1565b836c157e2d8e66a7bbb66b9
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 
 # 克服營運上的偏差：上線後持續採用
 
