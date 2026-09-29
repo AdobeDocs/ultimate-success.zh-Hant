@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503937/?captions=chi_hant&learn=on&enablevpops)
 
 # 從草稿到傳遞：關閉在製品複查與核准差距
 
