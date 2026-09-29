@@ -3,13 +3,14 @@ title: CJA價值實現加速系列
 description: 此隨選Customer Journey Analytics系列可協助組織建立價值導向測量策略，將客戶資料轉換為值得信賴的深入分析和可衡量的業務成果。
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 0%
-
+source-wordcount: '776'
+ht-degree: 25%
 ---
-
 
 # CJA價值實現加速系列
 

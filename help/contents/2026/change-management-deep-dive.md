@@ -8,17 +8,38 @@ role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2750
-last-substantial-update: 2026-04-30T00:00:00Z
+last-substantial-update: 2026-04-30T00:00:00.000Z
 jira: KT-21094
 hide: true
 hidefromtoc: true
-source-git-commit: c7f68c2fd55130a959a631e7327851ce5553544c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: b3a93754-a8b8-46eb-9421-7eccaeeb3dff
+    internal-label: Best practices
+  - id: e30b0a1a-b594-47b8-af94-1e3a2be6df11
+    internal-label: Get started
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 
 # 變更管理深入探討，Adobe Journey Optimizer (AJO)
 
