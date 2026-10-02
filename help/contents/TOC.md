@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 
@@ -58,3 +58,4 @@ ht-degree: 0%
   + {hide-from-toc}[已標籤、受管理、已啟用](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[解除鎖定B2B成長未來](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[正在關閉WIP稽核與核准間隔](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[建置AI比例](../contents/2026/building-for-ai-scale.md)
