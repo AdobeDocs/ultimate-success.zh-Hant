@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 
@@ -42,15 +42,15 @@ ht-degree: 0%
   + {hide-from-toc}[縮放Adobe代理程式 — Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[資料彙集疑難排解](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics移轉至Customer Journey Analytics藍圖](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + {hide-from-toc}[適用於行動應用程式Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + 適用於行動應用程式Personalization的{hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI與代理程式架構](../contents/2026/understand-adobe-ai-agentic-architecture.md)
-  + {hide-from-toc}[適用於Adobe Workfront的可擴充的作業模式](../contents/2026/scalable-operating-model.md)
+  + 適用於Adobe Workfront的{hide-from-toc}[可擴充的作業模式](../contents/2026/scalable-operating-model.md)
   + {hide-from-toc}[Adobe Customer Journey Analytics彙整](../contents/2026/cja-stitching.md)
   + {hide-from-toc}[將使用案例轉化為業務成果](../contents/2026/use-cases-into-business-outcomes.md)
   + {hide-from-toc}[AJO產品發行工作階段](../contents/2026/ajo-product-relelase-session.md)
-  + {hide-from-toc}[Adobe Experience Manager Assets中的AI功能](../contents/2026/ai-features-aem-assets.md)
+  + Adobe Experience Manager Assets中的{hide-from-toc}[AI功能](../contents/2026/ai-features-aem-assets.md)
   + {hide-from-toc}[Marketo Engage銷售機會管理最佳實務](../contents/2026/marketo-lead-management-best-practices.md)
-  + {hide-from-toc}[使用Adobe Mix Modeler 更聰明的行銷決策](../contents/2026/smarter-marketing-mix-modeler.md)
+  + 使用Adobe Mix Modeler {hide-from-toc}[更聰明的行銷決策](../contents/2026/smarter-marketing-mix-modeler.md)
   + {hide-from-toc}[從Workfront Planning取得更多資訊](../contents/2026/get-more-from-workfront-planning.md)
   + {hide-from-toc}[Adobe Commerce可觀察性和監視最佳實務](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[CXO成功的策略規劃](../contents/2026/strategic-planning-cxo-success.md)
@@ -58,3 +58,4 @@ ht-degree: 0%
   + {hide-from-toc}[已標籤、受管理、已啟用](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[解除鎖定B2B成長未來](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[正在關閉WIP稽核與核准間隔](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[建置AI比例](../contents/2026/building-for-ai-scale.md)
