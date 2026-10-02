@@ -1,0 +1,225 @@
+---
+title: Ultimate Success網路研討會資料庫
+description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
+hide: true
+source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+workflow-type: tm+mt
+source-wordcount: '984'
+ht-degree: 14%
+---
+
+# Ultimate Success網路研討會資料庫
+
+存取我們全方位的專家主導網路研討會資料庫，加速您掌握專為Ultimate Success客戶設計的策略與技術最佳實務。 從基礎概念到進階實施策略，這些網路研討會涵蓋您推動可衡量業務成果所需的一切。
+
+## Adobe AI Essentials
+
+培根小茴香配豬肉肚皮小茴香、碧塘火腿肉豆蔻豬肉龍皮麵包。 火雞排骨肉片mignon pancetta磨地圓肩鼓肉串肉丸頭。 法蘭克福短排骨chuck shankle ham hock tri-tip、牛尾柳條牛排牛排牛排圍花枝條。 卡皮科拉短骨、法蘭克福排骨肉腸肚肚皮火雞肉腸香腸地圓。 喬爾·山克爾蘭傑格火腿波切塔塔德肯叉燒菜。 玉斑錦牛肉、龍蝦短排義式義式義式烤肉排火雞蛋粉牛肉波切豆角雞腿肉片。
+
+[檢視所有網路研討會](./webinars.md)
+
+## 網路研討會
+
+探索我們的隨選網路研討會系列，這些研討會旨在協助您充分發揮Adobe Experience Platform (AEP)解決方案的價值。 每個會議專為Ultimate客戶量身打造，提供可操作的指引、經過驗證的策略以及真實世界的範例，協助您根據排程推動更聰明的決策和更強大的成果。
+
+<!-- 
+CARDS  ****
+
+{cta = Watch}
+
+* ../contents/2026/csc-structured-framework-measurement-scorecard.md
+* ../contents/2026/universal-editor-ssr-frameworks.md
+* ../contents/2026/ajo-product-release.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving Value Across the Content Supply Chain - A Structured Framework & Measurement Scorecard">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" target="_blank" rel="referrer" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡">在內容Supply chain中推動值 — 結構化架構與測量計分卡</a>
+                    </p>
+                    <p class="is-size-6">瞭解在內容supply chain中測量與最佳化價值的結構化方法，以獲得更好的業務成果。</p>
+                </div>
+                <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Fast, Editable Sites with Universal Editor and Modern SSR Frameworks">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="具備通用編輯器和現代SSR架構的快速可編輯網站" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1790984045109" alt="具備通用編輯器和現代SSR架構的快速可編輯網站"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/universal-editor-ssr-frameworks.md" target="_blank" rel="referrer" title="具備通用編輯器和現代SSR架構的快速可編輯網站">快速、可編輯的網站，具有通用編輯器和現代SSR架構</a>
+                    </p>
+                    <p class="is-size-6">瞭解Adobe Universal Editor和SSR架構如何為行銷人員和開發人員提供快速、可編輯、符合SEO最佳化的網站。</p>
+                </div>
+                <a href="../contents/2026/universal-editor-ssr-frameworks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Product Release Session">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/ajo-product-release.md" title="AJO產品發行工作階段" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1790984045124" alt="AJO產品發行工作階段"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/ajo-product-release.md" target="_blank" rel="referrer" title="AJO產品發行工作階段">AJO產品發行工作階段</a>
+                    </p>
+                    <p class="is-size-6">探索新的AJO功能，以增強個人化、提升效率並提供更好的客戶體驗。</p>
+                </div>
+                <a href="../contents/2026/ajo-product-release.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+
+[檢視所有網路研討會](./webinars.md)
+
+## 迷你系列內容
+
+探索Adobe價值實現系列的OnDemand錄製，旨在協助組織將Adobe投資轉化為可衡量的業務影響。
+
+每個重點會議都會強調價值實現框架的核心支柱，提供實用的指引和經過實證的成品，以支援策略規劃、加快實現價值的時間並推動有意義的結果。 瀏覽產品和產業特定系列，瞭解團隊如何啟用策略、協調利害關係人，以及從採用到影響。
+
+<!-- 
+CARDS  ****
+
+  {cta  = View series}
+  
+* mini-series/ai-essentials.md
+* mini-series/cja-on-demand.md
+* mini-series/ajo-on-demand.md
+* mini-series/csc-on-demand.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Essentials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="AI Essentials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
+                    </p>
+                    <p class="is-size-6">培根小茴香配豬肉肚皮小茴香、碧塘火腿肉豆蔻豬肉龍皮麵包。 使用案例藍圖、架構、運作模式及組織整備，以加快實現價值的時間並最大限度地採用AJO。</p>
+                </div>
+                <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA Value Realization Acceleration Series">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/cja-on-demand.md" title="CJA價值實現加速系列" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1773688699496" alt="CJA價值實現加速系列"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/cja-on-demand.md" target="_blank" rel="referrer" title="CJA價值實現加速系列">CJA價值實現加速系列</a>
+                    </p>
+                    <p class="is-size-6">此隨選Customer Journey Analytics系列可協助組織建立價值導向測量策略，將客戶資料轉換為值得信賴的深入分析和可衡量的業務成果。</p>
+                </div>
+                <a href="mini-series/cja-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Value Realization Acceleration Series">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/ajo-on-demand.md" title="AJO價值實現加速系列" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1773688887775" alt="AJO價值實現加速系列"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/ajo-on-demand.md" target="_blank" rel="referrer" title="AJO價值實現加速系列">AJO價值實現加速系列</a>
+                    </p>
+                    <p class="is-size-6">Adobe Journey Optimizer價值實現系列透過明確的價值策略，引導團隊啟用即時、個人化的參與度。 這些會議涵蓋使用案例藍圖、架構、作業模型和組織整備，以加快實現價值並最大限度地採用AJO。</p>
+                </div>
+                <a href="mini-series/ajo-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Content Supply Chain Value Realization Series">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/csc-on-demand.md" title="內容Supply chain價值實現系列" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/csc-on-demand.md" target="_blank" rel="referrer" title="內容Supply chain價值實現系列">內容Supply chain價值實現系列</a>
+                    </p>
+                    <p class="is-size-6">本系列探討如何從規劃到測量，打造最新的supply chain內容。 會議強調架構、營運模式、執行人員贊助和變更管理的實用方法，以提高效率、擴展內容營運規模，並帶來可衡量的成果。</p>
+                </div>
+                <a href="mini-series/csc-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
