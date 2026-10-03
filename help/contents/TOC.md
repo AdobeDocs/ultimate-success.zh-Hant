@@ -3,17 +3,19 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '263'
 ht-degree: 0%
 ---
 
 # Ultimate Success網路研討會資料庫 {#ultimate-success-webinar-library}
 
 + [概觀](overview.md)
++ {hide-from-toc}[總覽AI](overview-ai.md)
 + [網路研討會](webinars.md)
 + 迷你系列內容 {#mini-series}
+  + {hide-from-toc}[AI Essentials](mini-series/ai-essentials.md)
   + [CJA價值實現加速系列](mini-series/cja-on-demand.md)
   + [AJO價值實現加速系列](mini-series/ajo-on-demand.md)
   + [CSC價值實現系列](mini-series/csc-on-demand.md)
