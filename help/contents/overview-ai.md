@@ -2,21 +2,15 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Ultimate Success網路研討會資料庫
 
 存取我們全方位的專家主導網路研討會資料庫，加速您掌握專為Ultimate Success客戶設計的策略與技術最佳實務。 從基礎概念到進階實施策略，這些網路研討會涵蓋您推動可衡量業務成果所需的一切。
-
-## Adobe AI Essentials
-
-培根小茴香配豬肉肚皮小茴香、碧塘火腿肉豆蔻豬肉龍皮麵包。 火雞排骨肉片mignon pancetta磨地圓肩鼓肉串肉丸頭。 法蘭克福短排骨chuck shankle ham hock tri-tip、牛尾柳條牛排牛排牛排圍花枝條。 卡皮科拉短骨、法蘭克福排骨肉腸肚肚皮火雞肉腸香腸地圓。 喬爾·山克爾蘭傑格火腿波切塔塔德肯叉燒菜。 玉斑錦牛肉、龍蝦短排義式義式義式烤肉排火雞蛋粉牛肉波切豆角雞腿肉片。
-
-[檢視所有網路研討會](./webinars.md)
 
 ## 網路研討會
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491256/?captions=chi_hant&format=jpeg&nocache=1790984045136" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="內容Supply chain價值實現系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
