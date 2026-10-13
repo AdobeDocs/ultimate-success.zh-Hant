@@ -2,9 +2,9 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
+source-git-commit: 7d99aced57be0fb087d28e87780797cf9eeffb23
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '890'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491256/?captions=chi_hant&format=jpeg&nocache=1791844681479" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791915927056" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="具備通用編輯器和現代SSR架構的快速可編輯網站" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="具備通用編輯器和現代SSR架構的快速可編輯網站"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791915927036" alt="具備通用編輯器和現代SSR架構的快速可編輯網站"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO產品發行工作階段" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="AJO產品發行工作階段"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791915927066" alt="AJO產品發行工作階段"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">透過隨選研討會學習Adobe AI，其中涵蓋核心概念以及跨Adobe Customer Experience Orchestration產品的實作AI功能。</p>
+                    <p class="is-size-6">深入瞭解我們精心策劃的隨選迷你系列內容，每個網路研討會都以單一主題為基礎，因此您可以自己學習每個研討會，或觀看完整系列，以獲得完整的端對端瞭解</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
@@ -197,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="內容Supply chain價值實現系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
