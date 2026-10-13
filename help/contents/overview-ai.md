@@ -2,9 +2,9 @@
 title: Ultimate Success網路研討會資料庫
 description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 hide: true
-source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
+source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '871'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491256/?captions=chi_hant&format=jpeg&nocache=1790984045136" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491256/?captions=chi_hant&format=jpeg&nocache=1791844681479" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="具備通用編輯器和現代SSR架構的快速可編輯網站" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1790984045109" alt="具備通用編輯器和現代SSR架構的快速可編輯網站"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="具備通用編輯器和現代SSR架構的快速可編輯網站"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO產品發行工作階段" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1790984045124" alt="AJO產品發行工作階段"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="AJO產品發行工作階段"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="AI Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">培根小茴香配豬肉肚皮小茴香、碧塘火腿肉豆蔻豬肉龍皮麵包。 使用案例藍圖、架構、運作模式及組織整備，以加快實現價值的時間並最大限度地採用AJO。</p>
+                    <p class="is-size-6">透過隨選研討會學習Adobe AI，其中涵蓋核心概念以及跨Adobe Customer Experience Orchestration產品的實作AI功能。</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視系列</span>
