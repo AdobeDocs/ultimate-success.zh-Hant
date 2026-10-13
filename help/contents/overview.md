@@ -1,8 +1,8 @@
 ---
 title: Ultimate Success網路研討會資料庫
-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
+description: 探索我們為Ultimate Success客戶舉辦的專家主導專屬網路研討會資料庫，快速掌握策略與技術最佳實務，以實現可衡量的業務成果。
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491256/?captions=chi_hant&format=jpeg&nocache=1791917786805" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791917786805" alt="在內容Supply chain中創造價值 — 結構化的架構和測量計分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="內容Supply chain價值實現系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="內容Supply chain價值實現系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
