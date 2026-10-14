@@ -2,9 +2,9 @@
 title: AI Essentials
 description: 透過隨選研討會學習Adobe AI，其中涵蓋核心概念以及跨Adobe Customer Experience Orchestration產品的實作AI功能。
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
-source-wordcount: '1310'
+source-wordcount: '1288'
 ht-degree: 30%
 ---
 
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
