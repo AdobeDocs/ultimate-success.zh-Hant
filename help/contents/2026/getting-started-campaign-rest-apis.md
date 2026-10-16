@@ -19,7 +19,7 @@ source-wordcount: '365'
 ht-degree: 1%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3504653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504663/?captions=chi_hant&learn=on&enablevpops)
 
 # 快速啟動您的整合： Campaign REST API快速入門
 
