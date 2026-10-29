@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success網路研討會資料庫
 breadcrumb-title: Ultimate Success網路研討會資料庫
 user-guide-description: 存取我們為Ultimate Success客戶所設的專家主導專屬網路研討會資料庫，快速掌握可帶來可衡量業務成果的戰略與技術最佳實務。
 nudge: true
-source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
+source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '296'
 ht-degree: 0%
 ---
 
@@ -65,4 +65,5 @@ ht-degree: 0%
   + {hide-from-toc}[AEM AI助理與Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
   + {hide-from-toc}[使用Campaign電子郵件Designer擴充生產規模](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[將AI Agentic Investments連線到業務影響](../contents/2026/ai-agentic-investments-to-business-impact.md)
+  + {hide-from-toc}[可持續的AI採用](../contents/2026/sustainable-ai-adoption.md)
 
