@@ -3920,7 +3920,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-mastery" title="Workfront掌握 — 成功策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1793232251287" alt="Workfront掌握 — 成功策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505048/?captions=chi_hant&format=jpeg&nocache=1793232251287" alt="Workfront掌握 — 成功策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
