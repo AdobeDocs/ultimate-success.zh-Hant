@@ -22,7 +22,7 @@ ht-degree: 0%
 
 數位體驗團隊通常能存取豐富的Analytics資料，但缺乏從insight到動作的明確路徑。 本會議探討如何系統化地挖掘Adobe Analytics和Customer Journey Analytics中的摩擦點，將其轉換為有優先順序、可測試的假設，並將其整合到Adobe Target和Journey Optimizer中，以持續最佳化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508275/?captions=chi_hant&learn=on&enablevpops)
 
 ## 您將瞭解的內容
 
